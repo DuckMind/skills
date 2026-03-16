@@ -30,9 +30,6 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `excel-analysis.zip`
   - sha256: `586d84703501bc8d6f32cf789dc71b2ed0b048e315187c548a082f47434246ad`
   - size_bytes: `5416`
-- `knowledge-graph.zip`
-  - sha256: `5a8404a7f3d73e340a62074d83d33e0d51d311ae6d8a22d1f59ec8f91c1a75b2`
-  - size_bytes: `225287`
 - `pdf.zip`
   - sha256: `e1a6543793a22ea810be374a44d597a08ab007d2d4b4346c5dc048668adbf978`
   - size_bytes: `60520`
