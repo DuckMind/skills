@@ -42,6 +42,9 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `text-to-pdf-automation.zip`
   - sha256: `1bd278bc88a73c3a4d9d3d48f80fde55e31cffbda1006f19cda5990ffbcb45d1`
   - size_bytes: `3264`
+- `vnstock-agent.zip`
+  - sha256: `c5f5a331d4058e5a73d1f273a7de4a86204cc3ef4caad88c1ab02bbe22379bba`
+  - size_bytes: `347059`
 - `web-fetch.zip`
   - sha256: `e27f9b46e09f15e99eb862824c4574e08bd90760013597d24f886767e4768c66`
   - size_bytes: `3185`
