@@ -22,8 +22,8 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
   - sha256: `cc34777cbee42f1a69f7d62c4a47dff6efe09111c9a8e3db218cb227878deba7`
   - size_bytes: `92230`
 - `duckmind-multimodal.zip`
-  - sha256: `4c159d769c8365154bee8b1fa3ef176e1dfdf67e5fcf659e4bc78b4f3b53a68b`
-  - size_bytes: `8193`
+  - sha256: `dd5c9a4e80171029c8a5ae3dc9cc2e142b2204f3bd266cebca268d576930031e`
+  - size_bytes: `19080`
 - `duckmind-transcribe.zip`
   - sha256: `5c701f6d6cd0ef32759078cb3f444d8bdfb7626655e76194688d48dc497b3eb3`
   - size_bytes: `6812`
