@@ -12,6 +12,9 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `data-storytelling.zip`
   - sha256: `38946577984009a65435b37ec0bae8a722b72685eb56fd32d28cdb6d3139a6c6`
   - size_bytes: `12736`
+- `doc-coauthoring.zip`
+  - sha256: `1cfc6d5289070e1f9172bacd819a0ea3eb9de9ad849d41b21528a4afb5086d89`
+  - size_bytes: `5943`
 - `docx.zip`
   - sha256: `516cda666761a70482340545fbfcd4d07be19587917bbf004d5917d82425a177`
   - size_bytes: `1131280`
