@@ -42,6 +42,9 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `pptx.zip`
   - sha256: `66705fc23fa35ba9220614fc1bc38606db0ee74e87fd6b97725b0dec13e3b2e6`
   - size_bytes: `1142302`
+- `prompt-master.zip`
+  - sha256: `f8e9c5df8e81a043658ff1b9c9033baf915e935264ab32760643ca56e669623a`
+  - size_bytes: `28369`
 - `web-fetch.zip`
   - sha256: `e27f9b46e09f15e99eb862824c4574e08bd90760013597d24f886767e4768c66`
   - size_bytes: `3185`
