@@ -42,9 +42,6 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `pptx.zip`
   - sha256: `66705fc23fa35ba9220614fc1bc38606db0ee74e87fd6b97725b0dec13e3b2e6`
   - size_bytes: `1142302`
-- `text-to-pdf-automation.zip`
-  - sha256: `1bd278bc88a73c3a4d9d3d48f80fde55e31cffbda1006f19cda5990ffbcb45d1`
-  - size_bytes: `3264`
 - `web-fetch.zip`
   - sha256: `e27f9b46e09f15e99eb862824c4574e08bd90760013597d24f886767e4768c66`
   - size_bytes: `3185`
@@ -58,5 +55,6 @@ DuckMind startup prunes these managed skill bundle directories when they are sti
 
 - `knowledge-graph`
 - `vnstock-agent`
+- `text-to-pdf-automation`
 - `youtube-downloader`
 - `youtube-transcribe-skill`
