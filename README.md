@@ -8,7 +8,6 @@ Runtime skill archives for DuckMind bootstrap.
 - `docx.zip`
 - `drawio-architect.zip`
 - `excel-analysis.zip`
-- `gpt-image-2-gen-skill.zip`
 - `pdf.zip`
 - `pptx.zip`
 - `prompt-master.zip`
