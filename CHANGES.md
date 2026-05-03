@@ -21,6 +21,9 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `excel-analysis.zip`
   - sha256: `586d84703501bc8d6f32cf789dc71b2ed0b048e315187c548a082f47434246ad`
   - size_bytes: `5416`
+- `gpt-image-2-gen-skill.zip`
+  - sha256: `d73970b0fb6375edbd1e8335f3c866cfdb34a4a11b1eac00153d8797cfa938fa`
+  - size_bytes: `982575`
 - `pdf.zip`
   - sha256: `e1a6543793a22ea810be374a44d597a08ab007d2d4b4346c5dc048668adbf978`
   - size_bytes: `60520`
@@ -35,7 +38,6 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
   - size_bytes: `1104831`
 
 ## Retired managed bundle markers
-
 DuckMind startup prunes these managed skill bundle directories when they are still present in managed skill targets.
 
 - `data-storytelling`
