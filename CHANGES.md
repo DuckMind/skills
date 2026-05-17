@@ -96,6 +96,9 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `twitter-reader.zip`
   - sha256: `c328f2ba448eb7ccc4545ca769ac2a40ddf9952e160c5a89e5fcc95e4579bea8`
   - size_bytes: `10051`
+- `vn-gov-doc-skill.zip`
+  - sha256: `1364f60191b16a55f2062cb62626805f5977259a15269b8091bdc0bce9ece925`
+  - size_bytes: `38036`
 - `xlsx.zip`
   - sha256: `0f3b20a228cb6723662441747f4f11e2a5db00b6ba424c3fd1624b743392766c`
   - size_bytes: `1104831`

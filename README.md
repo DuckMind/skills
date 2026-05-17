@@ -33,6 +33,7 @@ Runtime skill archives for DuckMind bootstrap.
 - `telegram-reader.zip`
 - `tradingview-reader.zip`
 - `twitter-reader.zip`
+- `vn-gov-doc-skill.zip`
 - `xlsx.zip`
 - `yc-reader.zip`
 - `yfinance-data.zip`
