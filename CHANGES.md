@@ -10,8 +10,8 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 ## Current archive manifest
 
 - `company-valuation.zip`
-  - sha256: `db8c74f9c418dd50af8caf911d502969b4f6288c463ec52c501052416be0aad5`
-  - size_bytes: `20104`
+  - sha256: `2866e0c31e31c2b4a12a6ef077db29152f15fbbe75230cf883ff5a8e4cb228e5`
+  - size_bytes: `20453`
 - `discord-reader.zip`
   - sha256: `7b2d79260f3d4a7460b2a0d120f40ef94ddffac710de86e5b4a8c9ddae70690f`
   - size_bytes: `7610`
@@ -25,32 +25,32 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
   - sha256: `12c0b41e935c62858b6d1bbc39789c25bd51183ab63bd16e52ca1e5f1f52146c`
   - size_bytes: `17410`
 - `earnings-preview.zip`
-  - sha256: `02f3313e7f2cee255ab6a60c3956265580afcf0dd85f863780776be3884dc760`
-  - size_bytes: `6442`
+  - sha256: `dc5d9a36cffe7e977761b7efba502df2d8aba03b0600296d71fa16a61de946eb`
+  - size_bytes: `6810`
 - `earnings-recap.zip`
-  - sha256: `3082dd2f0b71ed267567a8105d136b93107641f69a41ca8465f834b354c82d11`
-  - size_bytes: `6771`
+  - sha256: `c1e4272df78028f8868b9c982de1f1211a8fb8633a88c805765a0d9afe32ffa9`
+  - size_bytes: `7123`
 - `estimate-analysis.zip`
-  - sha256: `ad10a7c1e2f66ca70dacdd62076ae0e8d2256c167fd9ea72cd7e769393a211ad`
-  - size_bytes: `7555`
+  - sha256: `8be2e57b8f57bda2c69d104658cbf22673a5b7d09bf776a2663d024f512f512c`
+  - size_bytes: `7902`
 - `etf-premium.zip`
-  - sha256: `fef79253c796bc9c80b9231b2175261a8257267a52323a579029b933b67e47b3`
-  - size_bytes: `22169`
+  - sha256: `1ff9a2135189b5ccac5ed195c2176298eddbfa21b7d414974617b937d9478953`
+  - size_bytes: `22506`
 - `excel-analysis.zip`
   - sha256: `586d84703501bc8d6f32cf789dc71b2ed0b048e315187c548a082f47434246ad`
   - size_bytes: `5416`
 - `finance-sentiment.zip`
-  - sha256: `6944abf7d4104223ecbca463364bfa96562d68838adad21edaa00c1f469f0d66`
-  - size_bytes: `5025`
+  - sha256: `37ff1098c434a9af1daacb3fd085f9778ada5c18e34acc2795d9c5a15e7c2b70`
+  - size_bytes: `5385`
 - `funda-data.zip`
-  - sha256: `9f7d9928323c0486a0c54fcb4056910f4bce5c62f80d51781e8a448ded788b19`
-  - size_bytes: `30818`
+  - sha256: `2b5cb9735b5821307613671d5b53b03214b9b4e4c002bb0b4a2cfbe77c2527e3`
+  - size_bytes: `31149`
 - `generative-ui.zip`
   - sha256: `c49858f1b38d78e2e0585aabca0ca580d6fc8525478432a968e2cb76d9477108`
   - size_bytes: `18141`
 - `hormuz-strait.zip`
-  - sha256: `dbe38a8e11aabe1a2874f3cb5ca7b29af5859a81574b75bf19125f00c9fb4028`
-  - size_bytes: `7208`
+  - sha256: `61ae3839b66195a04813fa1d273e2369346a02f2249c1b40d9abb24206e36e9e`
+  - size_bytes: `7565`
 - `linkedin-reader.zip`
   - sha256: `186a4c648dc48e257cb1e4f81c6a34e6c9ebb0f250e09ad90ef11828c5642d46`
   - size_bytes: `8047`
@@ -58,8 +58,8 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
   - sha256: `b25eed9e257d1865fa9f41348f530aedde76cc56731bb521f9b1fc85fc884104`
   - size_bytes: `13281`
 - `options-payoff.zip`
-  - sha256: `219d55b69d97e031692a312785c92706b999985b5c934544ce04255faaa67691`
-  - size_bytes: `8286`
+  - sha256: `cae834389ed48756f19dac71e16a4edf8cafda1cd9585a9c9cae23a4d451ffe4`
+  - size_bytes: `8646`
 - `pdf.zip`
   - sha256: `e1a6543793a22ea810be374a44d597a08ab007d2d4b4346c5dc048668adbf978`
   - size_bytes: `60520`
@@ -70,29 +70,29 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
   - sha256: `f8e9c5df8e81a043658ff1b9c9033baf915e935264ab32760643ca56e669623a`
   - size_bytes: `28369`
 - `saas-valuation-compression.zip`
-  - sha256: `f983ef93ca22d14ccc2f2d505a2d7313f71d058ea2e47c4a55540d62f2934414`
-  - size_bytes: `6369`
+  - sha256: `20c4034e2290be6b35182abacfafc9cea58d122feb58ea2f4d38457ee71616d0`
+  - size_bytes: `6722`
 - `sepa-strategy.zip`
-  - sha256: `b8a54240e36d012dd7ad9dd5153ec1dd088ca9e7f55409e627e22fa1f0074839`
-  - size_bytes: `22647`
+  - sha256: `af50c321d0807bb3d7663e8e6c17ea81297e12fd2e22e30a788bfdcbaab36182`
+  - size_bytes: `22998`
 - `skill-creator.zip`
   - sha256: `b469e1605f8c1fa8bfef05f1b46f6f791a036578c4f291428708632ff370d2b9`
   - size_bytes: `28178`
 - `startup-analysis.zip`
-  - sha256: `450ab6a89cafd4fd6f006896e281cd2c6e92f455cf766c63b1b5be102e3808c1`
-  - size_bytes: `16818`
+  - sha256: `70b162ea7e1691b0e584dfa7111c9541d88bc69ae7df503b05d2228202c6edb8`
+  - size_bytes: `17185`
 - `stock-correlation.zip`
-  - sha256: `b66f557388ccae4aa60b79b2dbd2010572cbb48c1e854271e75b7c9cdcc0d037`
-  - size_bytes: `9116`
+  - sha256: `672958fa0ff5a0d819f27b802886645237d7291596ec40ca174bcb9493de5bd0`
+  - size_bytes: `9471`
 - `stock-liquidity.zip`
-  - sha256: `def6a10ad3811ea39f285ad2a6a1be44c90b6f4156cbe9c8ded2b02512d098bd`
-  - size_bytes: `14108`
+  - sha256: `b40829a247d7bd008020b80e7091f5f9b3cc97fd5e7eb1bea2b2add3838e25a8`
+  - size_bytes: `14442`
 - `telegram-reader.zip`
   - sha256: `bf2efb585b431c2d1084d5ffa1ddddf7654a727c26f882ce7a2f354d42fe4306`
   - size_bytes: `7188`
 - `tradingview-reader.zip`
-  - sha256: `3ec6744a9cbd80befc6472822f68b60bd74e7e7f3a69909d6d1c2cc623988db7`
-  - size_bytes: `15151`
+  - sha256: `83936034f61101c83c95487d9fe7209f7df860d1e01675c669a27bcd925915f4`
+  - size_bytes: `15505`
 - `twitter-reader.zip`
   - sha256: `c328f2ba448eb7ccc4545ca769ac2a40ddf9952e160c5a89e5fcc95e4579bea8`
   - size_bytes: `10051`
@@ -103,8 +103,8 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
   - sha256: `b453fe12022af784a32210874a72c944b60ac34f1818298c6459ce80eec4ecd2`
   - size_bytes: `8372`
 - `yfinance-data.zip`
-  - sha256: `52782be0f0ddff5b9d1f6913c8ea30e55c6a6bf90671d68faf0149e005398d42`
-  - size_bytes: `8163`
+  - sha256: `14345878d4711888a3d6bfcf65c4ae4f79ea62c9ca36954a4c124a9bc79fb539`
+  - size_bytes: `8509`
 
 ## Retired managed bundle markers
 DuckMind startup prunes these managed skill bundle directories when they are still present in managed skill targets.
