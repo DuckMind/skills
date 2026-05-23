@@ -1,8 +1,6 @@
 # DuckMind Skills
 
-Runtime skill archives for DuckMind bootstrap.
-
-## Skill archives
+Bundled skill archives served to DuckMind runtime installs.
 
 - `company-valuation.zip`
 - `discord-reader.zip`
@@ -23,6 +21,7 @@ Runtime skill archives for DuckMind bootstrap.
 - `options-payoff.zip`
 - `pdf.zip`
 - `pptx.zip`
+- `pretext-skill.zip`
 - `prompt-master.zip`
 - `saas-valuation-compression.zip`
 - `sepa-strategy.zip`

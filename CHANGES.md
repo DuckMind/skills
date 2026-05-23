@@ -1,5 +1,11 @@
 # Skills Changes
 
+## 2026-05-23 — Add Pretext skill
+
+- Added `pretext-skill.zip` from `yaniv-golan/pretext-skill@44fa2eef8ec9578571d36e2aa1b495a38d0fac4b`.
+- Archive root is `pretext/` with one `pretext/SKILL.md` and references for `@chenglou/pretext` API and layout patterns.
+- Purpose: bundled DM installs can answer Pretext text-measurement/layout integration questions from the default DuckMind skills sync.
+
 This file tracks the canonical DuckMind skills archive set mirrored into local worktrees.
 
 ## Contract
