@@ -1,5 +1,11 @@
 # Skills Changes
 
+## 2026-05-24 — Add Retail Stock Brief skill
+
+- Added `retail-stock-brief.zip`.
+- Archive root contains `README.md` and one `SKILL.md`; ZIP was normalized to remove `__MACOSX` resource-fork entries.
+- Purpose: bundled DM installs can produce plain-language Vietnam-first retail stock briefs using market data, fresh 30-day discussion/news, and simple risk language.
+
 ## 2026-05-23 — Add Pretext skill
 
 - Added `pretext-skill.zip` from `yaniv-golan/pretext-skill@44fa2eef8ec9578571d36e2aa1b495a38d0fac4b`.
@@ -75,6 +81,9 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `prompt-master.zip`
   - sha256: `f8e9c5df8e81a043658ff1b9c9033baf915e935264ab32760643ca56e669623a`
   - size_bytes: `28369`
+- `retail-stock-brief.zip`
+  - sha256: `5e3c212301fefdb6cc2617ba9762f6b6aa4a236a0a53235d75d82723399a83a6`
+  - size_bytes: `5732`
 - `saas-valuation-compression.zip`
   - sha256: `1b94975dd43b1f04f322d02a452598e58887d53960fc46258468c0105defe70f`
   - size_bytes: `6907`

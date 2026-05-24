@@ -23,6 +23,7 @@ Bundled skill archives served to DuckMind runtime installs.
 - `pptx.zip`
 - `pretext-skill.zip`
 - `prompt-master.zip`
+- `retail-stock-brief.zip`
 - `saas-valuation-compression.zip`
 - `sepa-strategy.zip`
 - `skill-creator.zip`
