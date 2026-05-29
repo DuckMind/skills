@@ -1,5 +1,11 @@
 # Skills Changes
 
+## 2026-05-29 — Add Humanizer skill
+
+- Added `humanizer.zip` from `blader/humanizer@a2ace14a88a6746f64f1f53ed8272d6788828038`.
+- Archive root is `humanizer/` with one `humanizer/SKILL.md`, a DuckMind-focused README, and upstream MIT `LICENSE`.
+- Purpose: bundled DM installs can remove common AI-writing patterns and match a user-provided writing sample without installing a separate skill repository.
+
 ## 2026-05-24 — VNStock tool-account key guard
 
 - Updated finance skills that mention `vnstock_market_data` so any needed vnstock API key must come from `~/.dm/agent/tool-accounts.json` (or existing `VNSTOCK_API_KEY`) and must never be written into prompts, skill files, logs, or commits.
@@ -68,6 +74,9 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `hormuz-strait.zip`
   - sha256: `965d1476de3f6e47543eff51ae4498130e7d38e2e15a84aa6da2f8d12729ee77`
   - size_bytes: `8090`
+- `humanizer.zip`
+  - sha256: `d0d62dc3da86dd4accd41c2e5173430a0c097378b45820ced24cec97193d9883`
+  - size_bytes: `14410`
 - `linkedin-reader.zip`
   - sha256: `186a4c648dc48e257cb1e4f81c6a34e6c9ebb0f250e09ad90ef11828c5642d46`
   - size_bytes: `8047`

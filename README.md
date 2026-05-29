@@ -16,6 +16,7 @@ Bundled skill archives served to DuckMind runtime installs.
 - `funda-data.zip`
 - `generative-ui.zip`
 - `hormuz-strait.zip`
+- `humanizer.zip`
 - `linkedin-reader.zip`
 - `opencli-reader.zip`
 - `options-payoff.zip`
