@@ -2,39 +2,20 @@
 
 Bundled skill archives served to DuckMind runtime installs.
 
-- `company-valuation.zip`
 - `discord-reader.zip`
 - `doc-coauthoring.zip`
 - `docx.zip`
 - `drawio-architect.zip`
-- `earnings-preview.zip`
-- `earnings-recap.zip`
-- `estimate-analysis.zip`
-- `etf-premium.zip`
 - `excel-analysis.zip`
-- `finance-sentiment.zip`
-- `funda-data.zip`
 - `generative-ui.zip`
-- `hormuz-strait.zip`
 - `humanizer.zip`
 - `linkedin-reader.zip`
 - `opencli-reader.zip`
-- `options-payoff.zip`
 - `pdf.zip`
 - `pptx.zip`
-- `pretext-skill.zip`
 - `prompt-master.zip`
-- `retail-stock-brief.zip`
-- `saas-valuation-compression.zip`
-- `sepa-strategy.zip`
 - `skill-creator.zip`
-- `startup-analysis.zip`
-- `stock-correlation.zip`
-- `stock-liquidity.zip`
 - `telegram-reader.zip`
-- `tradingview-reader.zip`
 - `twitter-reader.zip`
 - `vn-gov-doc-skill.zip`
 - `xlsx.zip`
-- `yc-reader.zip`
-- `yfinance-data.zip`
