@@ -5,7 +5,7 @@ Bundled skill archives served to DuckMind runtime installs.
 - `discord-reader.zip`
 - `doc-coauthoring.zip`
 - `docx.zip`
-- `drawio-architect.zip`
+- `drawio-skill.zip`
 - `excel-analysis.zip`
 - `generative-ui.zip`
 - `humanizer.zip`

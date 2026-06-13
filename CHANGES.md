@@ -1,5 +1,11 @@
 # Skills Changes
 
+## 2026-06-12 — Replace Draw.io Architect with drawio-skill
+
+- Removed `drawio-architect.zip`.
+- Added `drawio-skill.zip` from `Agents365-ai/drawio-skill@00ed825c4aec623a5838a16d1ad6b7a2c603dfa6`.
+- Archive root contains one root `SKILL.md`, bundled references/scripts/data/styles, upstream MIT `LICENSE`, and no `__MACOSX` resource-fork entries.
+
 ## 2026-06-04 — Retire DM finance/wiki/stock bundles
 
 - Removed `company-valuation.zip`, `earnings-preview.zip`, `earnings-recap.zip`, `estimate-analysis.zip`, `etf-premium.zip`, `finance-sentiment.zip`, `funda-data.zip`, `hormuz-strait.zip`, `options-payoff.zip`, `pretext-skill.zip`, `retail-stock-brief.zip`, `saas-valuation-compression.zip`, `sepa-strategy.zip`, `startup-analysis.zip`, `stock-correlation.zip`, `stock-liquidity.zip`, `tradingview-reader.zip`, `yc-reader.zip`, and `yfinance-data.zip` from the canonical DuckMind skills archive set.
@@ -47,9 +53,9 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `docx.zip`
   - sha256: `516cda666761a70482340545fbfcd4d07be19587917bbf004d5917d82425a177`
   - size_bytes: `1131280`
-- `drawio-architect.zip`
-  - sha256: `12c0b41e935c62858b6d1bbc39789c25bd51183ab63bd16e52ca1e5f1f52146c`
-  - size_bytes: `17410`
+- `drawio-skill.zip`
+  - sha256: `a3c9d84342d4dd4549d9c780b74200d83d0e5e779721c72b9dcfe1454a2493fd`
+  - size_bytes: `630569`
 - `excel-analysis.zip`
   - sha256: `586d84703501bc8d6f32cf789dc71b2ed0b048e315187c548a082f47434246ad`
   - size_bytes: `5416`
@@ -89,14 +95,3 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `xlsx.zip`
   - sha256: `0f3b20a228cb6723662441747f4f11e2a5db00b6ba424c3fd1624b743392766c`
   - size_bytes: `1104831`
-- `data-storytelling`
-- `duckmind-deep-research`
-- `duckmind-multimodal`
-- `duckmind-transcribe`
-- `knowledge-graph`
-- `perplexity-search`
-- `web-fetch`
-- `vnstock-agent`
-- `text-to-pdf-automation`
-- `youtube-downloader`
-- `youtube-transcribe-skill`
