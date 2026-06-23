@@ -1,5 +1,11 @@
 # Skills Changes
 
+## 2026-06-23 — Add frontend-design skill
+
+- Added `frontend-design.zip` from `anthropics/skills@57546260929473d4e0d1c1bb75297be2fdfa1949` subtree `skills/frontend-design`.
+- Archive root contains one root `SKILL.md`, upstream `LICENSE.txt`, and no `__MACOSX` resource-fork entries.
+- Purpose: bundled DM installs can guide distinctive, intentional frontend visual design without fetching a separate skill repository.
+
 ## 2026-06-12 — Replace Draw.io Architect with drawio-skill
 
 - Removed `drawio-architect.zip`.
@@ -59,6 +65,9 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `excel-analysis.zip`
   - sha256: `586d84703501bc8d6f32cf789dc71b2ed0b048e315187c548a082f47434246ad`
   - size_bytes: `5416`
+- `frontend-design.zip`
+  - sha256: `87238301275f7cc94d48021bb388d5428da4d73db28ec29ed7b22beb213b697e`
+  - size_bytes: `7566`
 - `generative-ui.zip`
   - sha256: `c49858f1b38d78e2e0585aabca0ca580d6fc8525478432a968e2cb76d9477108`
   - size_bytes: `18141`

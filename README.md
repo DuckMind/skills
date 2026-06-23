@@ -7,6 +7,7 @@ Bundled skill archives served to DuckMind runtime installs.
 - `docx.zip`
 - `drawio-skill.zip`
 - `excel-analysis.zip`
+- `frontend-design.zip`
 - `generative-ui.zip`
 - `humanizer.zip`
 - `linkedin-reader.zip`
