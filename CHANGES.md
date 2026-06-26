@@ -1,5 +1,11 @@
 # Skills Changes
 
+## 2026-06-24 — Add html-effectiveness skill
+
+- Added `html-effectiveness.zip` from `ghoulvspol/html-effectiveness-skill@4bbbfb857145643851a0c98484152b84b7ff7d2c`.
+- Archive root contains one root `SKILL.md`, an English `README.md`, translated demo/docs HTML files, and no `__MACOSX` resource-fork entries.
+- Purpose: bundled DM installs can generate self-contained, interactive HTML documents for complex comparisons, timelines, matrices, reports, and knowledge explorers without fetching the upstream skill repository.
+
 ## 2026-06-23 — Add frontend-design skill
 
 - Added `frontend-design.zip` from `anthropics/skills@57546260929473d4e0d1c1bb75297be2fdfa1949` subtree `skills/frontend-design`.
@@ -71,6 +77,9 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `generative-ui.zip`
   - sha256: `c49858f1b38d78e2e0585aabca0ca580d6fc8525478432a968e2cb76d9477108`
   - size_bytes: `18141`
+- `html-effectiveness.zip`
+  - sha256: `5ec6647520731b937e5e8ca98e4dacf8e198a4ed2a3c1c82931580935d3cefd6`
+  - size_bytes: `16856`
 - `humanizer.zip`
   - sha256: `d0d62dc3da86dd4accd41c2e5173430a0c097378b45820ced24cec97193d9883`
   - size_bytes: `14410`

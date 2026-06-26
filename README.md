@@ -9,6 +9,7 @@ Bundled skill archives served to DuckMind runtime installs.
 - `excel-analysis.zip`
 - `frontend-design.zip`
 - `generative-ui.zip`
+- `html-effectiveness.zip`
 - `humanizer.zip`
 - `linkedin-reader.zip`
 - `opencli-reader.zip`
