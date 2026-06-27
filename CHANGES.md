@@ -1,5 +1,11 @@
 # Skills Changes
 
+## 2026-06-27 — Improve vn-gov-doc-skill normalization
+
+- Updated `vn-gov-doc-skill.zip` with the best reusable parts of `tiennnict/chuan-hoa-the-thuc@1a9e7f63dcd63931f98db2c0229ba0eb912a5cf9`.
+- Added Nghị định 30 normalization references, document-type detection notes, typing/capitalization guardrails, a Python `scripts/normalize.py` pipeline, and CC BY 4.0 attribution.
+- Existing document-generation workflow remains intact; uploaded/existing `.docx`/`.doc` files can now produce `<name>_chuanhoa.docx` plus `<name>_baocao.md`.
+
 ## 2026-06-24 — Add html-effectiveness skill
 
 - Added `html-effectiveness.zip` from `ghoulvspol/html-effectiveness-skill@4bbbfb857145643851a0c98484152b84b7ff7d2c`.
@@ -108,8 +114,8 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
   - sha256: `c328f2ba448eb7ccc4545ca769ac2a40ddf9952e160c5a89e5fcc95e4579bea8`
   - size_bytes: `10051`
 - `vn-gov-doc-skill.zip`
-  - sha256: `1364f60191b16a55f2062cb62626805f5977259a15269b8091bdc0bce9ece925`
-  - size_bytes: `38036`
+  - sha256: `36af6b8e7cc17935f521af1c572ce1f57745856ab9f2c15a904af6f433e1275d`
+  - size_bytes: `117004`
 - `xlsx.zip`
   - sha256: `0f3b20a228cb6723662441747f4f11e2a5db00b6ba424c3fd1624b743392766c`
   - size_bytes: `1104831`
