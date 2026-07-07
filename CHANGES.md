@@ -1,5 +1,11 @@
 # Skills Changes
 
+## 2026-07-07 — Retire social/OpenCLI reader skill bundles
+
+- Removed `discord-reader.zip`, `linkedin-reader.zip`, `opencli-reader.zip`, and `telegram-reader.zip` from the canonical DuckMind skills archive set.
+- `china-social-crawler.zip` was requested for removal but was already absent from this repository.
+- DM build/runtime guardrails should deny these archive names if an older mirror still exposes them.
+
 ## 2026-06-27 — Improve vn-gov-doc-skill normalization
 
 - Updated `vn-gov-doc-skill.zip` with the best reusable parts of `tiennnict/chuan-hoa-the-thuc@1a9e7f63dcd63931f98db2c0229ba0eb912a5cf9`.
@@ -62,9 +68,6 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 
 ## Current archive manifest
 
-- `discord-reader.zip`
-  - sha256: `7b2d79260f3d4a7460b2a0d120f40ef94ddffac710de86e5b4a8c9ddae70690f`
-  - size_bytes: `7610`
 - `doc-coauthoring.zip`
   - sha256: `1cfc6d5289070e1f9172bacd819a0ea3eb9de9ad849d41b21528a4afb5086d89`
   - size_bytes: `5943`
@@ -89,12 +92,6 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `humanizer.zip`
   - sha256: `d0d62dc3da86dd4accd41c2e5173430a0c097378b45820ced24cec97193d9883`
   - size_bytes: `14410`
-- `linkedin-reader.zip`
-  - sha256: `186a4c648dc48e257cb1e4f81c6a34e6c9ebb0f250e09ad90ef11828c5642d46`
-  - size_bytes: `8047`
-- `opencli-reader.zip`
-  - sha256: `b25eed9e257d1865fa9f41348f530aedde76cc56731bb521f9b1fc85fc884104`
-  - size_bytes: `13281`
 - `pdf.zip`
   - sha256: `e1a6543793a22ea810be374a44d597a08ab007d2d4b4346c5dc048668adbf978`
   - size_bytes: `60520`
@@ -107,9 +104,6 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `skill-creator.zip`
   - sha256: `b469e1605f8c1fa8bfef05f1b46f6f791a036578c4f291428708632ff370d2b9`
   - size_bytes: `28178`
-- `telegram-reader.zip`
-  - sha256: `bf2efb585b431c2d1084d5ffa1ddddf7654a727c26f882ce7a2f354d42fe4306`
-  - size_bytes: `7188`
 - `twitter-reader.zip`
   - sha256: `c328f2ba448eb7ccc4545ca769ac2a40ddf9952e160c5a89e5fcc95e4579bea8`
   - size_bytes: `10051`
