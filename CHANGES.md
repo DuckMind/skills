@@ -99,8 +99,8 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
   - sha256: `87238301275f7cc94d48021bb388d5428da4d73db28ec29ed7b22beb213b697e`
   - size_bytes: `7566`
 - `gcode.zip`
-  - sha256: `879c9fd933672bdc33c0b4cf18c117c0f292f2a94ba64c7e3dc72de94d0449ae`
-  - size_bytes: `12966`
+  - sha256: `9122972ec49bb77ed885eb9493a11d9488a139b4cc12b530f9c32a9c34b5d03d`
+  - size_bytes: `12981`
 - `generative-ui.zip`
   - sha256: `c49858f1b38d78e2e0585aabca0ca580d6fc8525478432a968e2cb76d9477108`
   - size_bytes: `18141`
