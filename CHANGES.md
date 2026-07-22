@@ -1,5 +1,11 @@
 # Skills Changes
 
+## 2026-07-22 — Add adapted text-to-CAD skills
+
+- Added `cad.zip`, `cad-viewer.zip`, `dxf.zip`, `gcode.zip`, `implicit-cad.zip`, `sdf.zip`, `srdf.zip`, `urdf.zip` from `https://github.com/earthtojake/text-to-cad.git@fdbb4b4fb62d95ae298cfe9a46fdc7092bdaf423`.
+- Applied the DM adapter: provider metadata/source maps omitted, user-facing identity normalized, external/hardware handoffs fail closed, viewer startup uses an explicit loopback port, and runtime dependency names are checked.
+- Deliberately excluded `bambu-labs`: Excluded until a DM adapter can isolate credentials, verified TLS, and explicit real-printer upload/start/cancel consent.; `sendcutsend`: Excluded because external manufacturing upload/order actions need a separate transaction and consent contract.; `step-parts`: Excluded until downloader URL/origin and workspace path boundaries have a cataloged SSRF/path-containment adapter.
+
 ## 2026-07-07 — Retire social/OpenCLI reader skill bundles
 
 - Removed `discord-reader.zip`, `linkedin-reader.zip`, `opencli-reader.zip`, and `telegram-reader.zip` from the canonical DuckMind skills archive set.
@@ -68,6 +74,12 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 
 ## Current archive manifest
 
+- `cad-viewer.zip`
+  - sha256: `40765b7478c52d4bb2b947dcd5f16658827e4ca6f88c1ffeb6f4fbd56aa12feb`
+  - size_bytes: `1673159`
+- `cad.zip`
+  - sha256: `f8c1db9d1bea104bb2c2ad3fcb8e344a937cec9b716711392b90e06334c570c9`
+  - size_bytes: `434835`
 - `doc-coauthoring.zip`
   - sha256: `1cfc6d5289070e1f9172bacd819a0ea3eb9de9ad849d41b21528a4afb5086d89`
   - size_bytes: `5943`
@@ -77,12 +89,18 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `drawio-skill.zip`
   - sha256: `a3c9d84342d4dd4549d9c780b74200d83d0e5e779721c72b9dcfe1454a2493fd`
   - size_bytes: `630569`
+- `dxf.zip`
+  - sha256: `98e309c4b6f8cb64157e819a5e7ee052fc58b3abcfd416627d58dedd559b8435`
+  - size_bytes: `135277`
 - `excel-analysis.zip`
   - sha256: `586d84703501bc8d6f32cf789dc71b2ed0b048e315187c548a082f47434246ad`
   - size_bytes: `5416`
 - `frontend-design.zip`
   - sha256: `87238301275f7cc94d48021bb388d5428da4d73db28ec29ed7b22beb213b697e`
   - size_bytes: `7566`
+- `gcode.zip`
+  - sha256: `879c9fd933672bdc33c0b4cf18c117c0f292f2a94ba64c7e3dc72de94d0449ae`
+  - size_bytes: `12966`
 - `generative-ui.zip`
   - sha256: `c49858f1b38d78e2e0585aabca0ca580d6fc8525478432a968e2cb76d9477108`
   - size_bytes: `18141`
@@ -92,6 +110,9 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `humanizer.zip`
   - sha256: `d0d62dc3da86dd4accd41c2e5173430a0c097378b45820ced24cec97193d9883`
   - size_bytes: `14410`
+- `implicit-cad.zip`
+  - sha256: `6dd46070340251f4c71b68df3cfedccf578bf3879f7b5d0db485563cca9905ec`
+  - size_bytes: `115353`
 - `pdf.zip`
   - sha256: `e1a6543793a22ea810be374a44d597a08ab007d2d4b4346c5dc048668adbf978`
   - size_bytes: `60520`
@@ -101,12 +122,21 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `prompt-master.zip`
   - sha256: `f8e9c5df8e81a043658ff1b9c9033baf915e935264ab32760643ca56e669623a`
   - size_bytes: `28369`
+- `sdf.zip`
+  - sha256: `6b797642512dd76cf6442cfdd119a579d5d732372f4fb253932c6c8e3b3f9a75`
+  - size_bytes: `47968`
 - `skill-creator.zip`
   - sha256: `b469e1605f8c1fa8bfef05f1b46f6f791a036578c4f291428708632ff370d2b9`
   - size_bytes: `28178`
+- `srdf.zip`
+  - sha256: `d0164fdfe5d481019319d66140c800431d48b9a01a3efaea6b156ade36dc2ebe`
+  - size_bytes: `28081`
 - `twitter-reader.zip`
   - sha256: `c328f2ba448eb7ccc4545ca769ac2a40ddf9952e160c5a89e5fcc95e4579bea8`
   - size_bytes: `10051`
+- `urdf.zip`
+  - sha256: `3a0b91d4768c51525668abee7cffd5c1aaf07dd8df940e2f186729fa254ffeca`
+  - size_bytes: `28316`
 - `vn-gov-doc-skill.zip`
   - sha256: `36af6b8e7cc17935f521af1c572ce1f57745856ab9f2c15a904af6f433e1275d`
   - size_bytes: `117004`
