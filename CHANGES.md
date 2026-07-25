@@ -1,5 +1,11 @@
 # Skills Changes
 
+## 2026-07-25 — Expand Humanizer with no-slop workflow
+
+- Updated `humanizer.zip` with the full edit/detect workflow from `petergyang/no-ai-slop@61c21c351da4dcb40946a11fead978f2078a2c65`.
+- Rebranded the imported workflow as `humanizer`: runtime skill metadata and invocation remain `humanizer`, while upstream names are retained only as provenance/license text.
+- Archive root remains `humanizer/` with one `humanizer/SKILL.md`; the archive now also includes the adapted eval checklist, rebranded agent metadata, and the upstream MIT license for the imported workflow.
+
 ## 2026-07-22 — Add adapted text-to-CAD skills
 
 - Added `cad.zip`, `cad-viewer.zip`, `dxf.zip`, `gcode.zip`, `implicit-cad.zip`, `sdf.zip`, `srdf.zip`, `urdf.zip` from `https://github.com/earthtojake/text-to-cad.git@fdbb4b4fb62d95ae298cfe9a46fdc7092bdaf423`.
@@ -108,8 +114,8 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
   - sha256: `5ec6647520731b937e5e8ca98e4dacf8e198a4ed2a3c1c82931580935d3cefd6`
   - size_bytes: `16856`
 - `humanizer.zip`
-  - sha256: `d0d62dc3da86dd4accd41c2e5173430a0c097378b45820ced24cec97193d9883`
-  - size_bytes: `14410`
+  - sha256: `aa30fb469b969b2c339d08b246516e19473f9e12a20942f2c567dd3d260a4f3d`
+  - size_bytes: `20935`
 - `implicit-cad.zip`
   - sha256: `6dd46070340251f4c71b68df3cfedccf578bf3879f7b5d0db485563cca9905ec`
   - size_bytes: `115353`
