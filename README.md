@@ -4,6 +4,7 @@ Bundled skill archives served to DuckMind runtime installs.
 
 - `cad-viewer.zip`
 - `cad.zip`
+- `diagram-design.zip`
 - `doc-coauthoring.zip`
 - `docx.zip`
 - `drawio-skill.zip`

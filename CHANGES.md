@@ -1,5 +1,17 @@
 # Skills Changes
 
+## 2026-08-19 — Add adapted diagram-design skill
+
+- Added `diagram-design.zip` from
+  `cathrynlavery/diagram-design@5f1b6ddc66036554dd68701798bd12aa5e3ef3f9`,
+  subtree `skills/diagram-design`.
+- Applied the DM adapter to host guidance: DM uses `.dm` / `~/.dm` paths and
+  DM is named as the supported host; `CLAUDE.md`, `~/.claude`, and Codex remain
+  technical external-client examples.
+- Archive contains the complete 155-file skill subtree, including references,
+  scripts, assets, and upstream MIT license. It has no symlinks, secrets,
+  `__MACOSX` entries, or path escapes.
+
 ## 2026-07-25 — Expand Humanizer with no-slop workflow
 
 - Updated `humanizer.zip` with the full edit/detect workflow from `petergyang/no-ai-slop@61c21c351da4dcb40946a11fead978f2078a2c65`.
@@ -83,6 +95,9 @@ This file tracks the canonical DuckMind skills archive set mirrored into local w
 - `cad-viewer.zip`
   - sha256: `40765b7478c52d4bb2b947dcd5f16658827e4ca6f88c1ffeb6f4fbd56aa12feb`
   - size_bytes: `1673159`
+- `diagram-design.zip`
+  - sha256: `a2636e280b91e8cfd624de4f0a5d4f88db5733a27b490f4e1ae1ebd8876c05b7`
+  - size_bytes: `2138723`
 - `cad.zip`
   - sha256: `f8c1db9d1bea104bb2c2ad3fcb8e344a937cec9b716711392b90e06334c570c9`
   - size_bytes: `434835`
