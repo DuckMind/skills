@@ -58,29 +58,39 @@ done
 python3 - "$SCRIPT_DIR" "$REPO_ROOT" "$OUTPUT_PATH" "$MODE" <<'PY'
 from __future__ import annotations
 
+import hashlib
 import sys
 from pathlib import Path
 
 skills_dir = Path(sys.argv[1]).resolve()
-repo_root = Path(sys.argv[2]).resolve()
 output_path = Path(sys.argv[3]).expanduser()
 if not output_path.is_absolute():
   output_path = (Path.cwd() / output_path).resolve()
 mode = sys.argv[4]
 
-scripts_dir = repo_root / "scripts"
-if str(scripts_dir) not in sys.path:
-  sys.path.insert(0, str(scripts_dir))
+marker = "## Current archive manifest\n"
+manifest_lines = [marker.rstrip(), ""]
+for archive in sorted(skills_dir.glob("*.zip")):
+  payload = archive.read_bytes()
+  manifest_lines.extend(
+    (
+      f"- `{archive.name}`",
+      f"  - sha256: `{hashlib.sha256(payload).hexdigest()}`",
+      f"  - size_bytes: `{len(payload)}`",
+    )
+  )
+manifest = "\n".join(manifest_lines) + "\n"
 
-from skills_repo_publish import build_changes_text  # noqa: E402
-
-content = build_changes_text(skills_dir)
+current = output_path.read_text(encoding="utf-8") if output_path.is_file() else ""
+if marker in current:
+  content = current.split(marker, 1)[0].rstrip() + "\n\n" + manifest
+else:
+  content = "# Skills Changes\n\n" + manifest
 
 if mode == "stdout":
   sys.stdout.write(content)
   raise SystemExit(0)
 
-current = output_path.read_text(encoding="utf-8") if output_path.is_file() else ""
 if mode == "check":
   if current == content:
     print(f"CHANGES.md is up to date: {output_path}")
